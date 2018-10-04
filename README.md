@@ -1,4 +1,5 @@
 # Introduction-to-Machine-Learning
+
 Machine Learning Session Notes
 
 
@@ -6,4 +7,4 @@ Machine Learning Session Notes
 
 
 
-### Repo maintined by Mehar Nallamalli 
+##### Repo maintined by Mehar Nallamalli 
